@@ -1,2 +1,4 @@
 # FacultyDevelopmentProgram2023
-Materials regarding the session on the topics of Probability, Applications of Derivatives and Application of Integrals
+- March'23 IIT mandi
+- Materials used in the session on the topics of Probability, Applications of Derivatives and Application of Integrals
+- author: 0mk and VanshajNathani
